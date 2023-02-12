@@ -1,0 +1,23 @@
+td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+table {
+    border-spacing: 30px;
+  }
+h1{
+    text-align: center;
+    color: #537FE7;
+}
+h2{
+    text-align: center;
+    color: #C0EEF2;
+}
+h3{
+    color: #E9F8F9;
+}
+body{
+    background-color: #181823;
+}
