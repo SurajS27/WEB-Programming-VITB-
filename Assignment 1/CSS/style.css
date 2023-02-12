@@ -1,0 +1,29 @@
+body{
+    background-color:#B1F0E8;
+}
+h1{
+    color: #107E71 
+    ;
+}
+h2{
+    color: #107E71 
+    ;
+}
+img{
+    border-radius: 50%;
+}
+.Aboutme{
+    margin-left: 60%;
+}
+.name{
+    margin-left: 5%;
+}
+h1:hover{
+    color: #66BFBF;
+}
+h2:hover{
+    color: #66BFBF;
+}
+img:hover{
+    border-radius: 25%;
+}
